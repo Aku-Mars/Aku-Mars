@@ -4,7 +4,7 @@
   <img src="https://github.com/Aku-Mars/Aku-Mars/assets/76494850/93e45589-3318-4f74-9c60-ec9c954101b9" width="400px" alt="My spirit animal">
 </p>
 
-## 🐱cat About Me
+## 🐱 About Me
 
 > I'm just a soul navigating the digital world, one line of code at a time. My current quest is to build something as beautiful and comforting as a purring cat.
 
