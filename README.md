@@ -38,7 +38,7 @@
 
 <p align="center">
   But if our hands can't reach, you can find me here: <br><br>
-  <a href="https://instagram.com/@m_arifin_syam">
+  <a href="https://instagram.com/m_arifin_syam">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
