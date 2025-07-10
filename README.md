@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,hapi,html,css,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,html,css,vscode,figma" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,aws,azure,digitalocean,linode" />
+    <img src="https://skillicons.dev/icons?i=gcp,aws,azure" />
   </a>
 </p>
 
